@@ -1,6 +1,10 @@
 "hello"
 simple changes in git
+<<<<<<< HEAD
 
 
 
 Thank you very much
+=======
+Happy Birthday
+>>>>>>> f607319068a984c39057db99255764c8ac799504
